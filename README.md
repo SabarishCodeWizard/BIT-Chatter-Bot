@@ -18,6 +18,11 @@ The BIT-Chatter-Bot is a chatbot specifically designed for Bannari Amman Institu
 - PHP-based backend to handle message processing and responses.
 - Simple and intuitive design with easy-to-use interface.
 
+## Demo
+
+[Watch the demo video](https://drive.google.com/file/d/1D2ZXjzthcm1sux8kpM9rq4YaclkyjmTo/view?usp=sharing)
+
+
 ## Installation
 
 1. **Clone the Repository:**
